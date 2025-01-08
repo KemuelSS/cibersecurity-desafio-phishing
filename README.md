@@ -16,5 +16,8 @@
 - **Site template utilizado:** `3-Twitter`
 
 
+## Tela Fake e Resultados
+![Tela Fake](https://github.com/KemuelSS/cibersecurity-desafio-phishing/blob/2c3bb16bb1deb41ba052eb7cec1664e63d492b00/TELA%20TWITTER.png)
+![Resultados do phishing](https://github.com/KemuelSS/cibersecurity-desafio-phishing/blob/2c3bb16bb1deb41ba052eb7cec1664e63d492b00/EMAIL%20E%20SENHA%20CAPTURADOS.png)
 
 
